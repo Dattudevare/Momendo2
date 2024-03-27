@@ -1,4 +1,4 @@
-import { Box, Button, Container, FormControl, FormLabel, Menu, MenuItem, Select, TextField, Typography } from '@mui/material'
+import { Box, Button, Container, Menu, MenuItem, TextField, Typography } from '@mui/material'
 import React, { useState } from 'react'
 import "../Style/Estimates.css"
 import templ44 from "../Images/temple111.png"
@@ -45,7 +45,7 @@ function Estimates() {
                     , marginLeft: { xs: "60px", sm: "230px", md: "10px" },
                     marginTop: { xs: "140px", lg: "300px" },
                     position: "absolute", padding: "10px"
-                    
+
                 }}>
                     <div>
                         <Button
@@ -131,13 +131,13 @@ function Estimates() {
                     </Box>
                 </Box>
                 <Box sx={{
-                    position: "absolute", marginTop: "10px", marginLeft: "1000px", display: {
+                    marginTop: "10px", marginLeft: "1000px", display: {
                         xs: "none",
                         md: "flex",
                         lg: "block"
                     }
                 }}>
-                    <img src={templ44} alt="" width={"98%"} height={"438px"} />
+                    <img src={templ44} alt="" width={"100%"} height={"438px"} />
 
 
                 </Box>
