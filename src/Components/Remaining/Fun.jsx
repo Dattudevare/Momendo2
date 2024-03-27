@@ -20,7 +20,7 @@ function Fun() {
                 backgroundRepeat: "no-repeat",
                 backgroundSize: "100% 100%",
                 position: "relative",
-                backgroundAttachment: "fixed",
+                // backgroundAttachment: "fixed",
                 height:{xs:"2100px",sm:"1600px",md:"1050px",lg:"500px"},
             
 
@@ -32,10 +32,14 @@ function Fun() {
                         SOME FUN WE COVERED
                     </Typography>
 
-                <Grid container sx={{ display: 'flex', paddingLeft: "20px", marginTop:"35px" }}>
+                <Grid container sx={{ display: 'flex', paddingLeft: "20px", marginTop:"35px" ,marginLeft:{lg:"15px"}}}>
                     <Grid width={"150px"}
-                        xs={12} sm={6} md={4} lg={1.9} xl={1}
+                        xs={12} sm={6} md={4} lg={2} xl={2}
                         height={"270px"}
+                        textAlign={"center"}
+                        alignContent={"center"}
+                        alignItems={"center"}
+
                         sx={{
                             background: "black", opacity: "0.7",
                             color: "#fff",
@@ -52,8 +56,11 @@ function Fun() {
                         </Grid>
                     </Grid>
                     <Grid width={"150px"}
-                        xs={12} sm={6} md={4} lg={1.9} xl={1}
+                        xs={12} sm={6} md={4} lg={1.9} xl={2}
                         height={"270px"}
+                        textAlign={"center"}
+                        alignContent={"center"}
+                        alignItems={"center"}
                         sx={{
                             background: "black", opacity: "0.7",
                             color: "#fff",
@@ -70,8 +77,11 @@ function Fun() {
                         </Grid>
                     </Grid>
                     <Grid width={"150px"}
-                        xs={12} sm={6} md={4} lg={1.9} xl={1}
+                        xs={12} sm={6} md={4} lg={1.9} xl={2}
                         height={"270px"}
+                        textAlign={"center"}
+                        alignContent={"center"}
+                        alignItems={"center"}
                         sx={{
                             background: "black", opacity: "0.7",
                             color: "#fff",
@@ -88,8 +98,11 @@ function Fun() {
                         </Grid>
                     </Grid>
                     <Grid width={"150px"}
-                        xs={12} sm={6} md={4} lg={1.9} xl={1}
+                        xs={12} sm={6} md={4} lg={1.9} xl={2}
                         height={"270px"}
+                        textAlign={"center"}
+                        alignContent={"center"}
+                        alignItems={"center"}
                         sx={{
                             background: "black", opacity: "0.7",
                             color: "#fff",
@@ -106,8 +119,11 @@ function Fun() {
                         </Grid>
                     </Grid>
                     <Grid width={"150px"}
-                        xs={12} sm={6} md={4} lg={1.9} xl={1}
+                        xs={12} sm={6} md={4} lg={1.9} xl={2}
                         height={"270px"}
+                        textAlign={"center"}
+                        alignContent={"center"}
+                        alignItems={"center"}
                         sx={{
                             background: "black", opacity: "0.7",
                             color: "#fff",
@@ -124,7 +140,10 @@ function Fun() {
                         </Grid>
                     </Grid>
                     <Grid width={"150px"}
-                        xs={12} sm={6} md={4} lg={1.9} xl={1}
+                        xs={12} sm={6} md={4} lg={1.9} xl={2}
+                        textAlign={"center"}
+                        alignContent={"center"}
+                        alignItems={"center"}
                         height={"270px"}
                         sx={{
                             background: "black", opacity: "0.7",

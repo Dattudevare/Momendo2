@@ -23,7 +23,7 @@ function Header() {
     };
     return (
         <>
-            <AppBar position='fixed' className='fixeddd' >
+            <AppBar position='fixed' >
 
                 <Toolbar>
                     <Typography justifyContent={"space-between"}>

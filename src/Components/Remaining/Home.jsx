@@ -20,9 +20,8 @@ function Home() {
         backgroundSize: "cover",
         backgroundPosition: "center",
         backgroundRepeat: "no-repeat", mt: "64px", width: "100%", height: "840px",
-      
-    
-        
+        position: "relative"
+        // position:"absolute"
       }}
 
       >
