@@ -41,7 +41,7 @@ function Estimates() {
                     <h1 className='horizontal-line'></h1>
                 </Box>
                 <Box sx={{
-                    display: { lg: "flex", md: "flex", xl: "block", xs: "block" }
+                    display: { lg: "flex", md: "flex", xl: "flex", xs: "block" }
                     , marginLeft: { xs: "60px", sm: "230px", md: "10px" },
                     marginTop: { xs: "140px", lg: "300px" },
                     position: "absolute", padding: "10px"

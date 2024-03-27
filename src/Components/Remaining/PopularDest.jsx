@@ -9,7 +9,7 @@ function PopularDest() {
             <Typography variant='h4' color={"white"} textAlign={"center"} padding={"30px"} fontWeight={'bold'}>POPULAR DESTINATIONS</Typography>
             <Container maxWidth sx={{ display: "flex" }}>
                 <Grid container sx={{ display: "flex",mb:"60px" ,marginLeft:{xs:"20px"}}} >
-                    <Grid item xs={12} sm={6} md={4} lg={3} xl={1} >
+                    <Grid item xs={12} sm={6} md={4} lg={3} xl={3} >
                         <Card sx={{ maxWidth: 345, marginLeft: "12px", marginTop: "20px" ,borderRadius:"15px" }} >
                             <CardMedia
                                 sx={{ height: 250 }}
@@ -32,7 +32,7 @@ function PopularDest() {
                             </CardActions>
                         </Card>
                     </Grid>
-                    <Grid item xs={12} sm={6} md={4} lg={3} xl={1} >
+                    <Grid item xs={12} sm={6} md={4} lg={3} xl={3} >
                         <Card sx={{ maxWidth: 345, marginLeft: "12px", marginTop: "20px" ,borderRadius:"15px" }} >
                             <CardMedia
                                 sx={{ height: 250 }}
@@ -55,7 +55,7 @@ function PopularDest() {
                             </CardActions>
                         </Card>
                     </Grid>
-                    <Grid item xs={12} sm={6} md={4} lg={3} xl={1} >
+                    <Grid item xs={12} sm={6} md={4} lg={3} xl={3} >
                         <Card sx={{ maxWidth: 345, marginLeft: "12px", marginTop: "20px" ,borderRadius:"15px" }} >
                             <CardMedia
                                 sx={{ height: 250 }}
@@ -78,7 +78,7 @@ Perhaps forever identified by Americans as the location of Rev. Martin Luther Ki
                             </CardActions>
                         </Card>
                     </Grid>
-                    <Grid item xs={12} sm={6} md={4} lg={3} xl={1} >
+                    <Grid item xs={12} sm={6} md={4} lg={3} xl={3} >
                         <Card sx={{ maxWidth: 345, marginLeft: "12px", marginTop: "20px" ,borderRadius:"15px" }} >
                             <CardMedia
                                 sx={{ height: 250 }}
@@ -102,7 +102,7 @@ Perhaps forever identified by Americans as the location of Rev. Martin Luther Ki
                             </CardActions>
                         </Card>
                     </Grid>
-                    <Grid item xs={12} sm={6} md={4} lg={3} xl={1} >
+                    <Grid item xs={12} sm={6} md={4} lg={3} xl={3} >
                         <Card sx={{ maxWidth: 345, marginLeft: "12px", marginTop: "20px" ,borderRadius:"15px" }} >
                             <CardMedia
                                 sx={{ height: 250 }}
@@ -125,7 +125,7 @@ Perhaps forever identified by Americans as the location of Rev. Martin Luther Ki
                             </CardActions>
                         </Card>
                     </Grid>
-                    <Grid item xs={12} sm={6} md={4} lg={3} xl={1} >
+                    <Grid item xs={12} sm={6} md={4} lg={3} xl={3} >
                         <Card sx={{ maxWidth: 345, marginLeft: "12px", marginTop: "20px" ,borderRadius:"15px" }} >
                             <CardMedia
                                 sx={{ height: 250 }}
@@ -147,7 +147,7 @@ Perhaps forever identified by Americans as the location of Rev. Martin Luther Ki
                             </CardActions>
                         </Card>
                     </Grid>
-                    <Grid item xs={12} sm={6} md={4} lg={3} xl={1} >
+                    <Grid item xs={12} sm={6} md={4} lg={3} xl={3} >
                         <Card sx={{ maxWidth: 345, marginLeft: "12px", marginTop: "20px" ,borderRadius:"15px" }} >
                             <CardMedia
                                 sx={{ height: 250 }}
@@ -170,7 +170,7 @@ Perhaps forever identified by Americans as the location of Rev. Martin Luther Ki
                             </CardActions>
                         </Card>
                     </Grid>
-                    <Grid item xs={12} sm={6} md={4} lg={3} xl={1} >
+                    <Grid item xs={12} sm={6} md={4} lg={3} xl={3} >
                         <Card sx={{ maxWidth: 345, marginLeft: "12px", marginTop: "20px" ,borderRadius:"15px" }} >
                             <CardMedia
                                 sx={{ height: 250 }}

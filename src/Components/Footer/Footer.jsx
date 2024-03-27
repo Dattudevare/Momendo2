@@ -13,7 +13,7 @@ function Footer() {
     <>
       <Container sx={{ display: "flex", background: "black" }} maxWidth position={"relative"}>
         <Grid container>
-          <Grid item xs={12} sm={6} md={3} xl={1} lg={3} mb={4} >
+          <Grid item xs={12} sm={6} md={3} xl={3} lg={3} mb={4} >
             <Grid  >
               <Typography variant='h5' color={"goldenrod"} mt={5} mb={4} ml={"20px"}>
                 Top Countries
@@ -73,7 +73,7 @@ function Footer() {
             </Grid>
 
           </Grid>
-          <Grid item xs={12} sm={6} md={3} xl={1} lg={3} mb={4} >
+          <Grid item xs={12} sm={6} md={3} xl={3} lg={3} mb={4} >
             <Grid  >
               <Typography variant='h5' color={"goldenrod"} mt={5} mb={4} ml={"60px"}>
                 Top Cities
@@ -153,7 +153,7 @@ function Footer() {
             </Grid>
 
           </Grid>
-          <Grid item xs={12} sm={6} md={3} xl={1} lg={3} mb={4} >
+          <Grid item xs={12} sm={6} md={3} xl={3} lg={3} mb={4} >
             <Grid  >
               <Typography variant='h5' color={"goldenrod"} mt={5} mb={4} textAlign={"center"} ml={"160px"}>
                 Internationl Sites
@@ -213,7 +213,7 @@ function Footer() {
             </Grid>
 
           </Grid>
-          <Grid item xs={12} sm={6} md={3} xl={1} mt={10} lg={3} mb={4} >
+          <Grid item xs={12} sm={6} md={3} xl={3} mt={10} lg={3} mb={4} >
             <Grid  >
 
               <Typography variant='body2' color={"white"} display={"flex"} pb={5} >
