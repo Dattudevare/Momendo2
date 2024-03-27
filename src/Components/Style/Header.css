@@ -1,0 +1,21 @@
+@media (max-width:900px){
+    .imagess{
+        display: none;
+    }
+}
+  
+
+@media (max-width:600px){
+    .imagess{
+        display: flex !important;
+        width:50% !important;
+        align-items: center;
+        text-align: center;
+        justify-content: center;
+        margin-left: 100px;
+        
+
+    }
+}
+
+

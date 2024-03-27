@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Flights",
+        "link": "/"
+    },
+    {
+        "name": "Hotels",
+        "link": "/Hotels"
+    },
+    {
+        "name": "Cars",
+        "link": "/Cars"
+    },
+    {
+        "name": "TripFinder",
+        "link": "/TripFinder"
+    },
+    {
+        "name": "Inspirations",
+        "link": "/Inspirations"
+    }
+]

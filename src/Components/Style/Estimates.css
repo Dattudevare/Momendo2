@@ -1,0 +1,16 @@
+.horizontal-line {
+    position: relative;
+    width: 200px; /* Width of the line */
+    height: 1px; /* Height of the line */
+    background-color: #000; /* Color of the line */
+  }
+  
+  .horizontal-line::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 1px; /* Thickness of the line */
+    background-color: #fff; /* Color of the line */
+  }
